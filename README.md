@@ -20,7 +20,7 @@ dotnet run sample-vbdotnet-vcp.sln
 
 
 ## Sample output
-<img src="https://github.com/Dracaltech/sample-csharp-vcp/assets/1357711/8f34fdfd-0383-427a-8adc-3330b847430c" width=400 />
+<img src="https://github.com/Dracaltech/sample-vbdotnet-vcp/assets/1357711/0d84a14b-37aa-44dc-9e35-b273ae244066" width=400 />
 
 ```
 Awaiting info line...
